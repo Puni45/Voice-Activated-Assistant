@@ -22,7 +22,7 @@ A simple and powerful **voice-controlled desktop assistant** built with Python. 
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 Make sure you have Python 3.6+ installed. Then install the dependencies:
 
